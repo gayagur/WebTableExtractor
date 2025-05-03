@@ -3,4 +3,5 @@ pandas
 requests
 trafilatura
 duckdb
+beautifulsoup4
 lxml[html_clean]
