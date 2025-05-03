@@ -1,4 +1,6 @@
+# webpage- https://webtableextractor-gayagur333.streamlit.app/
 # Tavily Table Extractor with DuckDB
+
 
 This Streamlit app lets users search for real-world data sources using the Tavily API, and then extract potential tables using DuckDB and Trafilatura from selected URLs.
 
